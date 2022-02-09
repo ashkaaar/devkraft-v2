@@ -24,7 +24,7 @@ function Home2() {
             <p className="home-about-body">
               <b className="purple">TEAM DEVKRAFT</b> is a club founded by a group of first-year students 
               <br />
-              <br />Who want to make engineering more intersting for evey student in 
+              <br />Who want to make engineering more intersting for every student in 
               <i>
                 <b className="purple"> DY Patil Institute of Technology. </b>
               </i>
