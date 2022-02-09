@@ -47,7 +47,7 @@ function Home2() {
               Learn more <a href="/about" className="purple">About us </a>
               <br />
               <br />
-              Meet our <a href="/about" className="purple">Team</a>
+              Meet our <a href="/team" className="purple">Team</a>
             </p>
           </Col>
           <Col md={4} className="myAvtar">
