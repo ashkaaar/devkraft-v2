@@ -7,7 +7,7 @@ import {FaLinkedin} from "react-icons/fa"
 
 function ProjectCards(props) {
   return (
-    <Card className="project-card-view" style={{ width: "18rem"}}>
+    <Card className="project-card-view" style={{ width: "19rem"}}>
       <Card.Img variant="top"  src={props.imgPath} alt="card-img" />
       <Card.Body>
         <Card.Title>{props.title}</Card.Title>
