@@ -175,7 +175,7 @@ function Team() {
               isBlog={false}
               title="Parth Tank"
               description="Discord Admin"
-              link="www.linkedin.com/in/parth-tank"
+              link="https://www.linkedin.com/in/parth-tank"
             />
           </Col>
           <Col md={4} className="project-card">
