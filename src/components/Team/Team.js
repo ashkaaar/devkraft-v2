@@ -130,7 +130,7 @@ function Team() {
             <ProjectCard
               imgPath={kaustubh}
               isBlog={false}
-              title="Kaustubh Bhiwasankar"
+              title="Kaustubh Bhiwsankar"
               description="Tech Lead"
               link="https://www.linkedin.com/in/bhiwsankar/"
             />
