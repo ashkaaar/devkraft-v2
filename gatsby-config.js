@@ -17,7 +17,7 @@ module.exports = {
         theme_color: '#000000',
         display: 'standalone',
         orientation: 'portrait',
-        icon: 'src/images/favicon.ico'
+        icon: 'src\images\favicon.ico'
       }
     },
     {
